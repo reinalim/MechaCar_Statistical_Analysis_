@@ -19,3 +19,17 @@ The slope of the linear model is not considered to be zero because allthe variab
 
 * Does this linear model predict mpg of MechaCar prototypes effectively? Why or why not?
 The linear model does not predict mpg of MechaCar prototypes effectively because the p value of the multiple linear regression is 5.35e-11 which is higher than 0.05
+
+## Summary Statistics on Suspension Coils
+
+### 1.Total Summary Table 
+The total summary table below demonstrates the mean (1498.78), Median (1500), Variance (62.29), and SD (7.89) for the PSK Suspension Coil across all manufacturing units, and the variance is under 100 PSI.
+
+<img src=https://github.com/reinalim/MechaCar_Statistical_Analysis_/blob/main/TotalSummaryTable.png>
+
+
+### 2. Lot Summary Table
+The lot summary below demonstrates the mean, median, variance and SD from Lot 1, Lot 2, Lot 3 of the PSI for supension coil across all manufacturing units inidividually. All the variables are under 100 PSI except Lot 3. 
+<img src=https://github.com/reinalim/MechaCar_Statistical_Analysis_/blob/main/LotSummaryTable.png>
+
+In terms of the design specficcations for the MechaCar Suspension Coils, it indicates that the variance of the suspension coils must not exceed 100 per square inch. The majority of current naufacturing data meets the design specifications, however, as shown from the Lot Summary Table, the variable of Lot3 exceeds 100 PSI.
