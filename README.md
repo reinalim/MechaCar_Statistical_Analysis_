@@ -72,4 +72,4 @@ The standard deviation of two samples, the mean of two samples and finally the n
 
 * What data is needed to run the statistical test?
 
-The standard deviation of two samples, 
+The standard deviation of two samples, the mean of two samples, and the number of observations. 
