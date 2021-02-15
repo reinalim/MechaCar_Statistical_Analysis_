@@ -56,20 +56,20 @@ The p-value of Lot 1 and Lot 3 are 1.568e-11 and 0.1589, which are greater than 
 ## D. Study Design: MechaCar vs Competition
 We will need information about our competitors' products in order to design a statistical study on how the MechaCar performs against the competition
 
-1. What metric or metrics are you going to test?
+- What metric or metrics are you going to test?
 
-2. What is the null hypothesis or alternative hypothesis?
+- What is the null hypothesis or alternative hypothesis?
 
 The null hypothesis tells there is no difference between a sample mean and population mean. The alternative hypothesis is opposite to the null pypothesis, 
 
-3. What statistical test would you use to test the hypothesis? And why?
+- What statistical test would you use to test the hypothesis? And why?
 
 we can use T-test as we are comparing two populations. 
 
-4. What data is needed to run the statistical test?
+- What data is needed to run the statistical test?
 
 The standard deviation of two samples, the mean of two samples and finally the number of observations.
 
-5. What data is needed to run the statistical test?
+- What data is needed to run the statistical test?
 
 The standard deviation of two samples, the mean of two samples, and the number of observations. 
