@@ -57,10 +57,11 @@ The p-value of Lot 1 and Lot 3 are 1.568e-11 and 0.1589, which are greater than 
 We will need information about our competitors' products in order to design a statistical study on how the MechaCar performs against the competition
 
 - What metric or metrics are you going to test?
+The metrics will be used to test to increase the consumer interest are cost, city/highway fuel efficiency, hourse power, safty rating and maintenance cost. 
 
 - What is the null hypothesis or alternative hypothesis?
 
-The null hypothesis tells there is no difference between a sample mean and population mean. The alternative hypothesis is opposite to the null pypothesis, 
+The null hypothesis tells there is no difference between a sample mean and population mean. The alternative hypothesis is opposite to the null pypothesis. 
 
 - What statistical test would you use to test the hypothesis? And why?
 
